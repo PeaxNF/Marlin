@@ -405,7 +405,7 @@ Board name: FYSETCV1_1A, FYSETCV1_1B, FYSETCV1_2A, FYSETCV1_2B, change_value = S
  *
  * :[2400, 9600, 19200, 38400, 57600, 115200, 250000, 500000, 1000000]
  */
-//#define BAUDRATE 250000 //baudrate is auto defined in other cheetah sections.
+#define BAUDRATE 250000 //baudrate is auto defined in other cheetah sections.
 
 // Enable the Bluetooth serial interface on AT90USB devices
 //#define BLUETOOTH

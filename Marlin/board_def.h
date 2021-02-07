@@ -68,7 +68,7 @@
 #define motherboard_name BOARD_BTT_SKR_V1_4_TURBO
 #define SERIAL_PORT 0
 #define SERIAL_PORT_2 -1
-#define BAUDRATE 115200
+//#define BAUDRATE 115200
 #endif
 
 #if ENABLED(BTTSKRE3DIPV1_0)
